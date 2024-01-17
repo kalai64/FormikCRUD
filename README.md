@@ -1,1 +1,1 @@
-Books details shown on dashboard... Using mockAPI... also used in FormikCRUD.
+Book and auther details shown on dashboard... Using mockAPI... also used in FormikCRUD.
